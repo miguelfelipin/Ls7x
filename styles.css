@@ -1,5 +1,5 @@
 body {
-    color: white;
+    color: rgb(255, 0, 0);
     background: black;
     margin: 0px;
     font-family: "Open Sans", sans-serif;
@@ -58,5 +58,5 @@ img {
 }
 
 .categoria h2 {
-    color: rgb(42, 122, 228);
+    color: rgb(255, 0, 0);
 }
